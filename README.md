@@ -1,4 +1,5 @@
 ## Introduction
+# please have a look inside EDA Files for my code with images
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
